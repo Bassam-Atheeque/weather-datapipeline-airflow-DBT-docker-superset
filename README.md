@@ -1,4 +1,4 @@
-# Weather Data Pipeline: Airflow, dbt, Postgres, Superset, Docker
+# End-to-End Weather Data Pipeline: Airflow, dbt, Postgres, Superset, Docker
 
 ## Overview
 
