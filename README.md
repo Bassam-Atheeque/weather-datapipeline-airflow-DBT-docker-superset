@@ -113,6 +113,16 @@ This mirrors a standard raw → staging → mart layering pattern used in produc
 
 ---
 
+## Airflow Orchestrator
+
+## ![Airflow1](./assets/Airflow1.jpg)
+
+## ![Airflow2](./assets/Airflow2.jpg)
+
+## ![Airflow3](./assets/Airflow3.jpg)
+
+---
+
 ## Dashboard
 
 ![Superset Dashboard](./assets/dashboard.png)
