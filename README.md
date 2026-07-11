@@ -169,7 +169,7 @@ This starts Postgres, Airflow, dbt, and Superset together on a shared network.
 
 ---
 
-## Known Limitations & Next Steps
+## Known Limitations
 
 - [ ] Move hardcoded credentials into environment variables with a `.env.example` template
 - [ ] Add dbt tests (`not_null`, `unique`) on staging and mart models
